@@ -1,5 +1,5 @@
 const clientID = '09ffec1bbe7342bd83bc69d4aa044464';
-const redirectUri = 'http://localhost:3000';
+const redirectUri = 'http://spotifyAPIplaylistmaker.surge.sh';
 let accessToken;
 
 const Spotify = {
